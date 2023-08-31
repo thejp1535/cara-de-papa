@@ -1,0 +1,111 @@
+.fondo{
+    width: 1000px;
+    height: 1000px;
+    text-align: center;
+    margin: 100px auto;
+    position: relative;
+    background: aqua;
+    z-index: 0;
+    border-color: aliceblue;
+}
+.sombrero{
+    top: -420px;
+    left: 0px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 10;
+}
+.ojoizq{
+    width: 8%;
+    height: 8%;
+    top: -199px;
+    left: -70px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 10;
+}
+.ojoder{
+    width: 8%;
+    height: 8%;
+    top: -199px;
+    left: 70px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 10;
+}
+.orejaizq{
+    width: 12%;
+    height: 12%;
+    top: -193px;
+    left: 270px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: -5;
+
+}
+.orejader{
+    width: 12%;
+    height: 12%;
+    top: -193px;
+    left: -270px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: -5;
+
+}
+.cara{
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 0;
+
+}
+.pieder{
+    width: 13%;
+    top: 663px;
+    left: -146px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    z-index: -2;
+}
+.pieizq{
+    width: 13%;
+    top: 663px;
+    left: 146px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    z-index: -2;
+}
+.bigote{
+    width: 20%;
+    top: 554px;
+    right: 0px;
+    left: 0px;
+    margin: auto;
+    position: absolute;
+    z-index: 2 ;
+}
+.nariz{
+    width: 15%;
+    top: 410px;
+    right: 0px;
+    left: 0px;
+    margin: auto;
+    position: absolute;
+    z-index: 10;
+}
